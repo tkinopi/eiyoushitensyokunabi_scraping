@@ -1,0 +1,2 @@
+# eiyoushitensyokunabi_scraping
+栄養士転職ナビに掲載されている求人をスクレイピングするためのコード
